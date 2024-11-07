@@ -1,0 +1,60 @@
+@startuml
+'https://plantuml.com/activity-diagram-beta
+
+package "Diagrama de Bloque" {
+node "Sensores Partes del Sistema" {
+    component [Sensor de Humedad]
+    component Descripcion_Sensor_de_Humedad [
+        Sensor usado para medir la humedad del
+        suelo y con base en esta medición realizar
+        un riego por goteo.
+    ]
+
+   [Sensor de Humedad] --> Descripcion_Sensor_de_Humedad
+    component [Sensor de Ph]
+    component Descripcion_Sensor_de_Ph [
+        Sensor usado para medir el pH del suelo, medida
+        informativa no usada para calcular la distribucion
+        de agua o fertilizante sobre las plantas.
+    ]
+    [Sensor de Ph] --> Descripcion_Sensor_de_Ph
+}
+
+node "I/O Devices"{
+    component [Teclado Numerico 4x4]
+    component Descripcion_Teclado_Numerico[
+    Dispositivo de entrada de valores numericos
+    para ajustarfactores internos de la aplicacion.
+    Se usara para manejar entrada de constates
+    de tiempo y volumenes de distribucion de
+    liquidos dentro del sistema
+    ]
+
+    [Teclado Numerico 4x4] -down-> Descripcion_Teclado_Numerico
+
+    component [Display LED 16 x 2]
+    component Descripcion_LED [
+    Dispositivo de salida de mensajes informativos y
+    advertencia Esenciales usuario. Se usara tambien
+    para definir mensajes de input para el usuario y
+    receptar la informacion dentro del arduino.
+    ]
+
+    [Display LED 16 x 2] -down-> Descripcion_LED
+
+
+}
+
+
+
+component [Arduino]
+"Sensores Partes del Sistema" -down-> [Arduino]
+"I/O Devices" -down->  [Arduino]
+
+}
+
+
+
+
+
+@enduml

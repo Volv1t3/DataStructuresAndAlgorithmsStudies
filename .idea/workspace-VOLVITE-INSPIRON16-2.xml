@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b25fa429-97d6-40a0-93e4-92ed216c487c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DataStructuresAndAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano/CargoObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano/OptimalBinPackagingAlgoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano/OptimalBinPackagingDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano/PackageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano00328370.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberUnoComplexMatrixSantiagoArellano/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberUnoComplexMatrixSantiagoArellano/ComplexMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberUnoComplexMatrixSantiagoArellano/ComplexTestingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberUnoComplexMatrixSantiagoArellano/DeberUnoComplexMatrixSantiagoArellano.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberUnoComplexMatrixSantiagoArellano/GenericMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/GenericList/SantiagoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/ControllerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/IsBinaryPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/RobotComController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/RobotMessageDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/AnalysisResultDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/RobotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/RobotDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/RobotEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/TenCentCoinFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassFive_2nd_Aug_2024_UnitTwo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassFour_28th_Aug_2024_UnitOne.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassOne_19th_Aug_2024_UnitOne.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassSix_4th_Aug_2024_UnitTwo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassThree_26th_Aug_2024_UnitOne.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassTwo_21st_Aug_2024_UnitOne.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/DiagramaDeBloquesElectronics.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberDosOptimalBinPackageSantiagoArellano/CargoObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberDosOptimalBinPackageSantiagoArellano/OptimalBinPackagingAlgoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberDosOptimalBinPackageSantiagoArellano/OptimalBinPackagingDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberDosOptimalBinPackageSantiagoArellano/PackageObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberDosOptimalBinPackageSantiagoArellano00328370.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberUnoComplexMatrixSantiagoArellano/Complex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberUnoComplexMatrixSantiagoArellano/ComplexMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberUnoComplexMatrixSantiagoArellano/ComplexTestingMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberUnoComplexMatrixSantiagoArellano/DeberUnoComplexMatrixSantiagoArellano.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberUnoComplexMatrixSantiagoArellano/GenericMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/GenericList/SantiagoList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSAControllers/ControllerExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSAControllers/IsBinaryPrime$results.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSAControllers/IsBinaryPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSAControllers/Robot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSAControllers/RobotComController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSAControllers/RobotMessageDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSATenCentCoinIdentifier/AnalysisResultDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSATenCentCoinIdentifier/RobotController$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSATenCentCoinIdentifier/RobotController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSATenCentCoinIdentifier/RobotDriver$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSATenCentCoinIdentifier/RobotDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSATenCentCoinIdentifier/RobotEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSATenCentCoinIdentifier/TenCentCoinFinder.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="module-info" />
+        <option value="UML Activity" />
+        <option value="editable-svg" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="groupByToolId" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ksvBtwRUwuyerLdvhYszAi25BN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ComplexTesting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComplexTestingMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControllerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsBinaryPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptimalBinPackagingAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptimalBinPackagingAlgoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PackageObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RobotDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMatchingHelper.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Activity&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.RobotDriver.testControllerReceivingRobot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestingRobotMethods.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestingRobotMethods.testGetRobotName.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.MethodFour.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.PrimeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;ToolWindow.RegexTester.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/santi/OneDrive - Universidad San Francisco de Quito/FIFTH SEMESTER/CMP3002DataStructuresAndAlgorithms/DataStructuresAndAlgorithm/Theory Markdowns&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2551724&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;,
+      &quot;C++&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Tests" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Theory Markdowns" />
+      <recent name="C:\Users\Santiago\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Theory Markdowns\Images" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Homework Modules\DeberUnoComplexMatrixSantiagoArellano" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="ImportExportFile.TargetDir.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StringMatchingHelper">
+    <configuration name="RobotDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RobotFSATenCentCoinIdentifier.RobotDriver" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RobotFSATenCentCoinIdentifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringMatchingHelper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeberTresStringMatchingAnalysisSantiagoArellano.StringMatchingHelper" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DeberTresStringMatchingAnalysisSantiagoArellano.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RobotDriver.testControllerReceivingRobot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RobotFSATenCentCoinIdentifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RobotFSATenCentCoinIdentifier" />
+      <option name="MAIN_CLASS_NAME" value="RobotFSATenCentCoinIdentifier.RobotDriver" />
+      <option name="METHOD_NAME" value="testControllerReceivingRobot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingRobotMethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RobotFSATenCentCoinIdentifierTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RobotFSATenCentCoinIdentifierTests" />
+      <option name="MAIN_CLASS_NAME" value="RobotFSATenCentCoinIdentifierTests.TestingRobotMethods" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestingRobotMethods.testGetRobotName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RobotFSATenCentCoinIdentifierTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="RobotFSATenCentCoinIdentifierTests" />
+      <option name="MAIN_CLASS_NAME" value="RobotFSATenCentCoinIdentifierTests.TestingRobotMethods" />
+      <option name="METHOD_NAME" value="testGetRobotName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StringMatchingHelper" />
+      <item itemvalue="Application.RobotDriver" />
+      <item itemvalue="JUnit.RobotDriver.testControllerReceivingRobot" />
+      <item itemvalue="JUnit.TestingRobotMethods" />
+      <item itemvalue="JUnit.TestingRobotMethods.testGetRobotName" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringMatchingHelper" />
+        <item itemvalue="Application.RobotDriver" />
+        <item itemvalue="JUnit.RobotDriver.testControllerReceivingRobot" />
+        <item itemvalue="JUnit.TestingRobotMethods.testGetRobotName" />
+        <item itemvalue="JUnit.TestingRobotMethods" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b25fa429-97d6-40a0-93e4-92ed216c487c" name="Changes" comment="" />
+      <created>1724084967221</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724084967221</updated>
+      <workItem from="1724084968227" duration="70000" />
+      <workItem from="1724085061998" duration="4847000" />
+      <workItem from="1724113396623" duration="4390000" />
+      <workItem from="1724206066817" duration="887000" />
+      <workItem from="1724249905206" duration="1193000" />
+      <workItem from="1724257538156" duration="958000" />
+      <workItem from="1724258523944" duration="48000" />
+      <workItem from="1724258666872" duration="189000" />
+      <workItem from="1724258881848" duration="120000" />
+      <workItem from="1724259106474" duration="147000" />
+      <workItem from="1724259257490" duration="2791000" />
+      <workItem from="1724333791139" duration="3435000" />
+      <workItem from="1724340195138" duration="3430000" />
+      <workItem from="1724366976241" duration="5785000" />
+      <workItem from="1724387814403" duration="2187000" />
+      <workItem from="1724547684173" duration="407000" />
+      <workItem from="1724548144418" duration="26000" />
+      <workItem from="1724548307085" duration="71000" />
+      <workItem from="1724550395407" duration="29000" />
+      <workItem from="1724553523784" duration="676000" />
+      <workItem from="1724689739443" duration="4854000" />
+      <workItem from="1724708403208" duration="6741000" />
+      <workItem from="1724766832846" duration="793000" />
+      <workItem from="1724767756027" duration="54000" />
+      <workItem from="1724767933208" duration="1496000" />
+      <workItem from="1724769677251" duration="122000" />
+      <workItem from="1724862287755" duration="3728000" />
+      <workItem from="1724882761322" duration="7761000" />
+      <workItem from="1724940813327" duration="41000" />
+      <workItem from="1724940864625" duration="391000" />
+      <workItem from="1724941279704" duration="716000" />
+      <workItem from="1725119439598" duration="249000" />
+      <workItem from="1725119716718" duration="345000" />
+      <workItem from="1725122989187" duration="139000" />
+      <workItem from="1725155027255" duration="3000" />
+      <workItem from="1725289247873" duration="431000" />
+      <workItem from="1725297352661" duration="14143000" />
+      <workItem from="1725370550470" duration="1625000" />
+      <workItem from="1725372336642" duration="3750000" />
+      <workItem from="1725377004181" duration="2087000" />
+      <workItem from="1725379170063" duration="1216000" />
+      <workItem from="1725380703569" duration="526000" />
+      <workItem from="1725393692847" duration="94000" />
+      <workItem from="1725417985163" duration="236000" />
+      <workItem from="1725459606291" duration="239000" />
+      <workItem from="1725467021386" duration="3904000" />
+      <workItem from="1725475395038" duration="1693000" />
+      <workItem from="1725484692864" duration="4778000" />
+      <workItem from="1725490215560" duration="145000" />
+      <workItem from="1725543736022" duration="661000" />
+      <workItem from="1725546788729" duration="6000" />
+      <workItem from="1725550109990" duration="2743000" />
+      <workItem from="1725567546334" duration="5000" />
+      <workItem from="1725588233716" duration="87000" />
+      <workItem from="1725588331845" duration="1952000" />
+      <workItem from="1725592937920" duration="7309000" />
+      <workItem from="1725632033227" duration="1729000" />
+      <workItem from="1725665969345" duration="2298000" />
+      <workItem from="1725676765710" duration="2535000" />
+      <workItem from="1725682005493" duration="5368000" />
+      <workItem from="1725727672494" duration="1513000" />
+      <workItem from="1725731647542" duration="1045000" />
+      <workItem from="1725887147175" duration="1151000" />
+      <workItem from="1725906565173" duration="2108000" />
+      <workItem from="1725916619794" duration="436000" />
+      <workItem from="1725917078253" duration="5574000" />
+      <workItem from="1725922800784" duration="3115000" />
+      <workItem from="1725926046130" duration="3330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
