@@ -1,0 +1,16 @@
+graph TD
+subgraph NFA For Transaction Analysis
+    A[Verificación de fondos] -->|Fondos suficientes| B[(Transferencia de dinero)]
+    A -->|Fondos insuficientes| C[Rechazar transacción]
+    end
+    subgraph Complete Bank Automaton
+        Start[1];Cancel[2];Redeem[3];Transfer[4];
+        Previous[Bank Start] -->|Start| Start[1]
+        Start[1] -->|Transfer, Pay Ship| Start[1]
+        Start[1] -->|Cancel| Cancel[2]
+        Cancel[2] -->|Redeem, Transfer, Pay, Ship, Cancel| Cancel[2]
+        Start[1] -->|Redeem| Redeem[3]
+        Redeem[3] -->|Redeem, Pay, Ship, Cancel| Redeem[3]
+        Redeem[4] -->|Transfer| Transfer[4]
+        Transfer[4] -->|Redeem, Transfer, Pay, Ship, Cancel| Transfer[4]
+    end
