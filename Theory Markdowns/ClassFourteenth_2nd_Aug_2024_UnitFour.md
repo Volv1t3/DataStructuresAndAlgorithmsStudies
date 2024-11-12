@@ -1378,7 +1378,7 @@ public class HeapMaximus<E extends Comparable<E>> {
         this.data.add(elementToAdd);
         //! Proceed with the sorting mechanism to organize elements
         int indexAtAnalysis = this.data.size() - 1; //? Index of the last element since this method works by ordering from the last
-        while (indexAtAnalysis > 0) /*i.e., we have not gone past the last element*/ {
+        while (indexAtAnalysis > 0) /*!i.e., we have not gone past the last element*/ {
             int parentOfIndexAtAnalysis = (indexAtAnalysis - 1) / 2;
             if (this.data.get(indexAtAnalysis).compareTo(this.data.get(parentOfIndexAtAnalysis)) > 0) {
                 E temporal = this.data.get(indexAtAnalysis);
@@ -1411,7 +1411,7 @@ public class HeapMaximus<E extends Comparable<E>> {
             int rightChildIndex = (2 * indexAtAnalysis) - 1;
 
             //! Find the maximum between the two children
-            if (leftChildIndex >= this.data.size()){break;} //! The tree is a heap?
+            if (leftChildIndex >= this.data.size()){break;} //! If this happens then we already removed everything
             int maxIndex = leftChildIndex;
             if (rightChildIndex < this.data.size()) {
                 if (this.data.get(maxIndex).compareTo(this.data.get(rightChildIndex) ) < 0) {

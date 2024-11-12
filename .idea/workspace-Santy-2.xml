@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b25fa429-97d6-40a0-93e4-92ed216c487c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DataStructuresAndAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_commons_collections4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_commons_lang3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_commons_math3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_jupiter_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc-VOLVITE-INSPIRON16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-VOLVITE-INSPIRON16-2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-VOLVITE-INSPIRON16-3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace-VOLVITE-INSPIRON16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberCincoSortingComparisonSantiagoArellano/AlgorithmComparisonDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberCincoSortingComparisonSantiagoArellano/SortingAlgorithmsImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano/CargoObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano/OptimalBinPackagingAlgoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano/OptimalBinPackagingDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano/PackageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberDosOptimalBinPackageSantiagoArellano00328370.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberUnoComplexMatrixSantiagoArellano/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberUnoComplexMatrixSantiagoArellano/ComplexMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberUnoComplexMatrixSantiagoArellano/ComplexTestingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework Modules/DeberUnoComplexMatrixSantiagoArellano/GenericMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeworkToZip/AlgorithmComparisonDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeworkToZip/SortingAlgorithmsImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/BankTransactionDiagram.mermaid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/DoubleLinkedList/DoubleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/DoubleLinkedList/DoubleLinkedListTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/HeapImplementations/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/HeapImplementations/MaxHeapWithArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/HeapImplementations/MaxHeapWithLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/HeapImplementations/MinHeapArrayListNoComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/HeapImplementations/MinHeapWithArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/HeapImplementations/MinHeapWithLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/NFARepresentationInJava/NFAsTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/ProblemSolvingAlgorithms/BeettleBagResolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/ProblemSolvingAlgorithms/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/ProblemSolvingAlgorithms/BlackgatePenitentiary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/ProblemSolvingAlgorithms/CaesarRedux.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/ProblemSolvingAlgorithms/DrFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/ProblemSolvingAlgorithms/GaiusLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/ProblemSolvingAlgorithms/MosaicDecorationOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/ProblemSolvingAlgorithms/RestaurantCypher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RadixSortApplications/ExternalSortRadix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RadixSortApplications/RadixSortForStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/ControllerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/IsBinaryPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/RobotComController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSAControllers/RobotMessageDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/AnalysisResultDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/RobotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/RobotDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/RobotEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier/TenCentCoinFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgoPractice/AdvancedSortingAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgoPractice/ElementarySortingAlgorithms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgorithmPractice/BubbleSortTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgorithmPractice/BubbleSortTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgorithmPractice/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgorithmPractice/GeneralAlgorithmPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgorithmPractice/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgorithmPractice/MergeSortTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgorithmPractice/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/SortingAlgorithmPractice/QuickSort.mermaid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/Trees/BinaryTreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/Trees/BinaryTreeNodeCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice Modules/Trees/BinaryTreeWComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassFifteenth_14th_Oct_24_UnitFour.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassFive_2nd_Aug_2024_UnitTwo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassFour_28th_Aug_2024_UnitOne.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassOne_19th_Aug_2024_UnitOne.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassSix_4th_Aug_2024_UnitTwo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassSixteenth_23rd_Oct_2024_UnitFive.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassThree_26th_Aug_2024_UnitOne.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassTwelveth_25th_Sep_2024_UnitThree.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/ClassTwo_21st_Aug_2024_UnitOne.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/CommonTreeView.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/DiagramaDeBloquesElectronics.puml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/binaryTreeLinkedRepresentation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/deletingALeafNode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/deletingASingleChildNode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/examplesOfTrees.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/Images/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Theory Markdowns/img.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="UML Activity" />
+        <option value="Interface" />
+        <option value="Zeppelin Notebook" />
+        <option value="Test" />
+        <option value="editable-svg" />
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-22.0.2/lib/src.zip!/java.base/com/sun/security/ntlm/Client.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.5/commons-math3-3.5-sources.jar!/org/apache/commons/math3/primes/Primes.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.5/commons-math3-3.5-sources.jar!/org/apache/commons/math3/primes/SmallPrimes.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="groupByToolId" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ksvBtwRUwuyerLdvhYszAi25BN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AdvancedSortingAlgorithms.executor": "Run",
+    "Application.AlgorithmComparisonDriver.executor": "Run",
+    "Application.ArrayListSA.executor": "Run",
+    "Application.BeettleBagResolution.executor": "Run",
+    "Application.BlackgatePenitentiary.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.BucketSort.executor": "Run",
+    "Application.CircuitModel.executor": "Run",
+    "Application.ComplexTesting.executor": "Run",
+    "Application.ComplexTestingMain.executor": "Run",
+    "Application.ControllerExample.executor": "Run",
+    "Application.DeberCuatroLinkedListSantiagoArellano.SingleLinkedListDriver.executor": "Run",
+    "Application.DeberSeisRadixSortSantiagoArellano.RadixSortMain.executor": "Run",
+    "Application.DoubleLinkedListTests.executor": "Run",
+    "Application.ElementarySortingAlgorithms.executor": "Run",
+    "Application.ExternalSortRadix.executor": "Run",
+    "Application.FibonnachiHelper.executor": "Run",
+    "Application.GCDHelpers.executor": "Run",
+    "Application.GaiusLetters.executor": "Run",
+    "Application.GeneralAlgorithmPractice.executor": "Run",
+    "Application.HeapSort.executor": "Run",
+    "Application.InterfacesAsFunctions.executor": "Run",
+    "Application.IsBinaryPrime.executor": "Run",
+    "Application.MathExpressionHelpers.executor": "Run",
+    "Application.MaxHeapWithLinkedList.executor": "Run",
+    "Application.MaxHepWithArrayList.executor": "Run",
+    "Application.MergeSort.executor": "Debug",
+    "Application.MinHeapArrayListNoComparator.executor": "Run",
+    "Application.MinHeapWithArrayList.executor": "Run",
+    "Application.MinHeapWithLinkedList.executor": "Run",
+    "Application.MosaicDecorationOne.executor": "Run",
+    "Application.OptimalBinPackagingAlgo.executor": "Run",
+    "Application.OptimalBinPackagingAlgoTest.executor": "Run",
+    "Application.PackageObject.executor": "Run",
+    "Application.PatternMatchingDriver.executor": "Run",
+    "Application.PrimeNumberListingHelpers.executor": "Run",
+    "Application.QuickSort.executor": "Run",
+    "Application.QuickSortComparisonDriver.executor": "Run",
+    "Application.RadixSortDriver.executor": "Run",
+    "Application.RadixSortForStrings.executor": "Run",
+    "Application.RadixSortMain.executor": "Run",
+    "Application.RestaurantCypher.executor": "Run",
+    "Application.RobotDriver.executor": "Run",
+    "Application.SantiagoLIstDriver.executor": "Run",
+    "Application.SingleLinkedListDriver.executor": "Run",
+    "Application.Squares.executor": "Run",
+    "Application.StatisticalAnalysisInterface$StatisticalAnalysisDTO.executor": "Run",
+    "Application.StringGeneratorHelper.executor": "Run",
+    "Application.StringHelpers.executor": "Run",
+    "Application.StringMatchingHelper.executor": "Run",
+    "Application.TrafficAnalyzerController.executor": "Run",
+    "DefaultPlantUmlFileTemplate": "UML Activity",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.MergeSortTests.executor": "Run",
+    "JUnit.RobotDriver.testControllerReceivingRobot.executor": "Run",
+    "JUnit.TestingRobotMethods.executor": "Run",
+    "JUnit.TestingRobotMethods.testGetRobotName.executor": "Run",
+    "JUnit.Unnamed.executor": "Run",
+    "Java Scratch.Main.executor": "Run",
+    "Java Scratch.MethodFour.executor": "Run",
+    "Java Scratch.PrimeNumbers.executor": "Run",
+    "Java Scratch.Scratch (1).executor": "Run",
+    "Java Scratch.Scratch.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindow.RegexTester.ShowToolbar": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "go.import.settings.migrated": "true",
+    "ignore.preview.features.used": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/santi/OneDrive - Universidad San Francisco de Quito/FIFTH SEMESTER/CMP3002DataStructuresAndAlgorithms/DataStructuresAndAlgorithm/HomeworkToZip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2551724",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA",
+      "C++"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\HomeworkToZip" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Practice Modules" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Practice Modules\SumOperationFSA" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Theory Markdowns\Images" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Homework Modules\DeberCincoSortingComparisonSantiagoArellano" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Tests" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Theory Markdowns" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="ImportExportFile.TargetDir.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Theory Markdowns" />
+      <recent name="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DeberSeisRadixSortSantiagoArellano" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MosaicDecorationOne">
+    <configuration name="BeettleBagResolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolvingAlgorithms.BeettleBagResolution" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolvingAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlackgatePenitentiary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolvingAlgorithms.BlackgatePenitentiary" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolvingAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GaiusLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolvingAlgorithms.GaiusLetters" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolvingAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxHepWithArrayList" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="HeapImplementations.MaxHeapWithArrayList" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MosaicDecorationOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolvingAlgorithms.MosaicDecorationOne" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolvingAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestaurantCypher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolvingAlgorithms.RestaurantCypher" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolvingAlgorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="PACKAGE_NAME" value="SortingAlgorithmPractice" />
+      <option name="MAIN_CLASS_NAME" value="SortingAlgorithmPractice.BubbleSortTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MaxHepWithArrayList" />
+      <item itemvalue="Application.BeettleBagResolution" />
+      <item itemvalue="Application.BlackgatePenitentiary" />
+      <item itemvalue="Application.GaiusLetters" />
+      <item itemvalue="Application.MosaicDecorationOne" />
+      <item itemvalue="Application.RestaurantCypher" />
+      <item itemvalue="JUnit.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MosaicDecorationOne" />
+        <item itemvalue="Application.RestaurantCypher" />
+        <item itemvalue="Application.BlackgatePenitentiary" />
+        <item itemvalue="Application.GaiusLetters" />
+        <item itemvalue="Application.BeettleBagResolution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b25fa429-97d6-40a0-93e4-92ed216c487c" name="Changes" comment="" />
+      <created>1725979596694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725979596694</updated>
+      <workItem from="1725979608429" duration="273000" />
+      <workItem from="1726005404010" duration="26000" />
+      <workItem from="1726005457699" duration="3511000" />
+      <workItem from="1726071854297" duration="4944000" />
+      <workItem from="1726089933787" duration="398000" />
+      <workItem from="1726090510113" duration="5066000" />
+      <workItem from="1726097462394" duration="922000" />
+      <workItem from="1726169473251" duration="526000" />
+      <workItem from="1726258909324" duration="7512000" />
+      <workItem from="1726358015198" duration="6630000" />
+      <workItem from="1726442147076" duration="192000" />
+      <workItem from="1726442540180" duration="1203000" />
+      <workItem from="1726496489930" duration="2152000" />
+      <workItem from="1726507544987" duration="1549000" />
+      <workItem from="1726515117552" duration="3371000" />
+      <workItem from="1726526350864" duration="1623000" />
+      <workItem from="1726542881834" duration="2963000" />
+      <workItem from="1726676720286" duration="1187000" />
+      <workItem from="1726677927802" duration="3802000" />
+      <workItem from="1726777160403" duration="8000" />
+      <workItem from="1726804515022" duration="142000" />
+      <workItem from="1726804676556" duration="35000" />
+      <workItem from="1726804731164" duration="19000" />
+      <workItem from="1726804834460" duration="339000" />
+      <workItem from="1726972792989" duration="3795000" />
+      <workItem from="1726978637095" duration="779000" />
+      <workItem from="1727043255072" duration="1042000" />
+      <workItem from="1727108719619" duration="4845000" />
+      <workItem from="1727129682975" duration="700000" />
+      <workItem from="1727130729954" duration="1705000" />
+      <workItem from="1727132617190" duration="7226000" />
+      <workItem from="1727273031077" duration="2749000" />
+      <workItem from="1727276455973" duration="12550000" />
+      <workItem from="1727295337555" duration="79000" />
+      <workItem from="1727296046503" duration="10013000" />
+      <workItem from="1727357968675" duration="84000" />
+      <workItem from="1727359550636" duration="146000" />
+      <workItem from="1727361272692" duration="87000" />
+      <workItem from="1727361374112" duration="857000" />
+      <workItem from="1727395606459" duration="204000" />
+      <workItem from="1727469070223" duration="1891000" />
+      <workItem from="1727492103778" duration="97000" />
+      <workItem from="1727535215417" duration="571000" />
+      <workItem from="1727536820938" duration="198000" />
+      <workItem from="1727537550437" duration="221000" />
+      <workItem from="1727540206082" duration="415000" />
+      <workItem from="1727540999835" duration="7690000" />
+      <workItem from="1727564137579" duration="4559000" />
+      <workItem from="1727569764861" duration="10123000" />
+      <workItem from="1727622784681" duration="656000" />
+      <workItem from="1727623457588" duration="1850000" />
+      <workItem from="1727717472322" duration="847000" />
+      <workItem from="1727721942668" duration="2401000" />
+      <workItem from="1727730710989" duration="2593000" />
+      <workItem from="1727792046562" duration="7477000" />
+      <workItem from="1727806451264" duration="2771000" />
+      <workItem from="1727886220166" duration="2903000" />
+      <workItem from="1727889159435" duration="5104000" />
+      <workItem from="1727904482729" duration="5003000" />
+      <workItem from="1727921096225" duration="109000" />
+      <workItem from="1727962911028" duration="3630000" />
+      <workItem from="1727983105530" duration="5173000" />
+      <workItem from="1727994671704" duration="2594000" />
+      <workItem from="1728079625991" duration="3842000" />
+      <workItem from="1728083991530" duration="5187000" />
+      <workItem from="1728090221751" duration="10645000" />
+      <workItem from="1728180021977" duration="7659000" />
+      <workItem from="1728262545810" duration="3466000" />
+      <workItem from="1728437740262" duration="35000" />
+      <workItem from="1728437785690" duration="1876000" />
+      <workItem from="1728611255146" duration="4320000" />
+      <workItem from="1728705877373" duration="2836000" />
+      <workItem from="1728766497568" duration="1651000" />
+      <workItem from="1728785302352" duration="4576000" />
+      <workItem from="1728790363347" duration="2054000" />
+      <workItem from="1728862518181" duration="14524000" />
+      <workItem from="1728911160506" duration="5443000" />
+      <workItem from="1728923188573" duration="4930000" />
+      <workItem from="1728930115380" duration="1161000" />
+      <workItem from="1728961324966" duration="2630000" />
+      <workItem from="1729000729495" duration="2831000" />
+      <workItem from="1729013696464" duration="4608000" />
+      <workItem from="1729046334839" duration="3531000" />
+      <workItem from="1729087244124" duration="2275000" />
+      <workItem from="1729095316503" duration="619000" />
+      <workItem from="1729096446462" duration="3084000" />
+      <workItem from="1729105579211" duration="130000" />
+      <workItem from="1729124356221" duration="10804000" />
+      <workItem from="1729170746420" duration="1481000" />
+      <workItem from="1729172795027" duration="2282000" />
+      <workItem from="1729181987853" duration="278000" />
+      <workItem from="1729182279781" duration="139000" />
+      <workItem from="1729182434479" duration="6703000" />
+      <workItem from="1729192464752" duration="7546000" />
+      <workItem from="1729203356531" duration="723000" />
+      <workItem from="1729264396745" duration="13093000" />
+      <workItem from="1729288318791" duration="7794000" />
+      <workItem from="1729296925765" duration="3012000" />
+      <workItem from="1729349973524" duration="6491000" />
+      <workItem from="1729361372820" duration="3931000" />
+      <workItem from="1729388037977" duration="1615000" />
+      <workItem from="1729389822500" duration="6395000" />
+      <workItem from="1729436866617" duration="158000" />
+      <workItem from="1729437152351" duration="246000" />
+      <workItem from="1729437411083" duration="740000" />
+      <workItem from="1729475780487" duration="4659000" />
+      <workItem from="1729484591902" duration="92000" />
+      <workItem from="1729532222247" duration="594000" />
+      <workItem from="1729556154086" duration="1455000" />
+      <workItem from="1729560728026" duration="6121000" />
+      <workItem from="1729567851910" duration="3774000" />
+      <workItem from="1729612915397" duration="1177000" />
+      <workItem from="1729614323852" duration="1891000" />
+      <workItem from="1729623695058" duration="7124000" />
+      <workItem from="1729693802508" duration="1488000" />
+      <workItem from="1729695565635" duration="864000" />
+      <workItem from="1729701154021" duration="291000" />
+      <workItem from="1729703546190" duration="3380000" />
+      <workItem from="1729737284221" duration="1061000" />
+      <workItem from="1729738372331" duration="906000" />
+      <workItem from="1729739416906" duration="2413000" />
+      <workItem from="1729743538014" duration="1244000" />
+      <workItem from="1729745841388" duration="3966000" />
+      <workItem from="1729775162254" duration="975000" />
+      <workItem from="1729776158054" duration="1112000" />
+      <workItem from="1729786690497" duration="5750000" />
+      <workItem from="1729796743321" duration="4620000" />
+      <workItem from="1729801654992" duration="2218000" />
+      <workItem from="1729815706785" duration="18162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice Modules/DoubleLinkedList/DoubleLinkedListTests.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.Comparator$$Lambda/0x000001a8e0049a08" memberName="arg$1" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
