@@ -1,5 +1,6 @@
 package DeberNueveAVLTreeTimingSantiagoArellano;
 
+
 import java.util.*;
 import java.util.function.Function;
 
@@ -146,6 +147,7 @@ public class AVLTree<E extends Comparable<E>> {
                     }
                     else {nodeParent.setRightOrThreadedChild(null);}
                     balancingAPath(nodeNow.getInternalStoredData());
+                    this.eTreeSize--;
                 }
                 //! Aanlyze second case
                 else if (nodeNow.getLeftOrThreadedChild() == null || nodeNow.getRightOrThreadedChild() == null){
@@ -163,9 +165,11 @@ public class AVLTree<E extends Comparable<E>> {
                     else {
                         nodeParent.setRightOrThreadedChild(childNode);
                     }
+                    this.eTreeSize--;
                 }
                 else if (nodeNow.getLeftOrThreadedChild() != null && nodeNow.getRightOrThreadedChild() != null){
                     this.deleteByMerging(nodeNow);
+                    this.eTreeSize--;
                 }
 
                 reBalancePath(nodeParent);
@@ -237,12 +241,7 @@ public class AVLTree<E extends Comparable<E>> {
 
     //? Main internal setters and Getters
     public void setInternalRoot(AVLTreeNode<E> rootToPlace) throws NullPointerException{
-        if (rootToPlace == null){throw new NullPointerException("Error Code 0x001 - [Raised] Node passed into this function " +
-                "is null.");}
-        else{
             this.eRoot = rootToPlace;
-            this.eTreeSize++;
-        }
     }
 
 
@@ -438,7 +437,7 @@ public class AVLTree<E extends Comparable<E>> {
         return (!resultList.isEmpty() ? Optional.of(resultList): Optional.empty());
     }
 
-    public final boolean searchInBinaryTrees(BinaryTreeNode<E> Root, final E  element){
+    public final boolean searchInBinaryTrees(AVLTreeNode<E> Root, final E  element){
         if (Root == null || element == null){
             throw new NullPointerException("Error Code 0x001 - [Raised] Either of the inputs sent into this function were " +
                     "null.");
@@ -455,8 +454,70 @@ public class AVLTree<E extends Comparable<E>> {
         return false;
     }
 
+
+    public int getHeight(){
+        Optional<List<E>> result = this.topBottomLeftRightBFS(this.eRoot, new Function<E, Optional<E>>() {
+            @Override
+            public Optional<E> apply(E e) {
+                return Optional.of(e);
+            }
+        });
+        return -1;
+    }
+    public Optional<List<E>> topBottomRightLeftBFS(AVLTreeNode<E> Root, Function<E, Optional<E>> userDefinedProcessing) {
+        if (Root == null || userDefinedProcessing == null){
+            throw new NullPointerException("Error Code 0x001 - [Raised] Either of the parameters passed into this function " +
+                    "was null");
+        }
+        List<E> resultList = new ArrayList<>();
+        Queue<AVLTreeNode<E>> nodeQueue = new ArrayDeque<>();
+        AVLTreeNode<E> nodeTemp = Root;
+        if (nodeTemp != null){
+            nodeQueue.offer(nodeTemp);
+        }
+        while (!nodeQueue.isEmpty()){
+            nodeTemp = nodeQueue.poll();
+            var result = userDefinedProcessing.apply(nodeTemp.getInternalStoredData());
+            result.ifPresent(resultList::add);
+            if (nodeTemp.getRightOrThreadedChild() != null){
+                nodeQueue.offer(nodeTemp.getRightOrThreadedChild());
+            }
+            if (nodeTemp.getLeftOrThreadedChild() != null){
+                nodeQueue.offer(nodeTemp.getLeftOrThreadedChild());
+            }
+        }
+        return (!resultList.isEmpty() ? Optional.of(resultList): Optional.empty());
+    }
+
     public final AVLTreeNode<E> getERoot(){
         return this.eRoot;
+    }
+
+    public Integer geteInternalHeight(){
+        //! Calculate the height of the tree based on the number of arrays structured through BFS
+        Queue<AVLTreeNode<E>> nodeQueue = new ArrayDeque<>();
+        ArrayList<ArrayList<E>> levelList = new ArrayList<>();
+        AVLTreeNode<E> rootTemp = this.getERoot();
+        if (rootTemp != null) {
+            nodeQueue.offer(rootTemp);
+        }
+        while (!nodeQueue.isEmpty()) {
+            int levelSize = nodeQueue.size();
+            ArrayList<E> currentLevel = new ArrayList<>();
+            for (int i = 1; i <= levelSize; i++) {
+                rootTemp = nodeQueue.poll();
+                currentLevel.add(rootTemp.getInternalStoredData());
+                if (rootTemp.getLeftOrThreadedChild() != null) {
+                    nodeQueue.offer(rootTemp.getLeftOrThreadedChild());
+                }
+                if (rootTemp.getRightOrThreadedChild() != null) {
+                    nodeQueue.offer(rootTemp.getRightOrThreadedChild());
+                }
+            }
+            levelList.add(currentLevel);
+        }
+
+        return levelList.size();
     }
 
     public final void clear(){

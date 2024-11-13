@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b25fa429-97d6-40a0-93e4-92ed216c487c" name="Changes" comment="Adding External Files used for Class Inner Workings">
+      <change afterPath="$PROJECT_DIR$/MavenResources/zip.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework Modules/DeberNueveAVLTreeTimingSantiagoArellano/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework Modules/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework Modules/DeberNueveAVLTreeTimingSantiagoArellano/AVLTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework Modules/AVLTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework Modules/DeberNueveAVLTreeTimingSantiagoArellano/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework Modules/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework Modules/DeberNueveAVLTreeTimingSantiagoArellano/BinaryTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework Modules/BinaryTreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework Modules/DeberNueveAVLTreeTimingSantiagoArellano/TimingTestDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework Modules/TimingTestDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework Modules/DeberNueveAVLTreeTimingSantiagoArellano/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Homework Modules/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/BankTransactionDiagram.mermaid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberCuatroLinkedListSantiagoArellano00328370.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberDosOptimalBinPackageSantiagoArellano00328370.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberSeisRadixSortSantiagoArellano00328370.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberSieteComparativaQuickSortSantiagoArellano.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberTresStringMatchingAnalysisSantiagoArellano00328370.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/DeberUnoComplexMatrixSantiagoArellano.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/LexerPractice/LexerDefinition.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/RobotFSATenCentCoinIdentifier/StateDiagramFSARobots.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/SortingAlgorithmPractice/BubbleSortTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/SortingAlgorithmPractice/QuickSort.mermaid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/Trees/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/Trees/AVLTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/Trees/AVLTreeTesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/Trees/BSTLiang$InorderIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/Trees/BSTLiang$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/Trees/BSTLiang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/nfa-diagram.mermaid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructuresAndAlgorithm/state.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Activity" />
+        <option value="Zeppelin Notebook" />
+        <option value="editable-svg" />
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Go File" />
+        <option value="Test" />
+        <option value="Junit Tests" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/sdk/go1.22.8" />
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Santiago Arellano &lt;sanfranmillo@outlook.com&gt;" />
+        <option value="Santiago Arellano" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Volv1t3&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Volv1t3/DataStructuresAndAlgorithmsStudies.git&quot;,
+    &quot;accountId&quot;: &quot;28041f98-fdcd-425b-910e-5acce84e1dae&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-22.0.2/lib/src.zip!/java.base/com/sun/security/ntlm/Client.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.5/commons-math3-3.5-sources.jar!/org/apache/commons/math3/primes/Primes.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.5/commons-math3-3.5-sources.jar!/org/apache/commons/math3/primes/SmallPrimes.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="groupByToolId" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ksvBtwRUwuyerLdvhYszAi25BN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AdvancedSortingAlgorithms.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AlgorithmComparisonDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListSA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BeettleBagResolution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryTreeDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryTreeTesting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BlackgatePenitentiary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubblesChallenge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BucketSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CaesarRedux.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircuitModel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComplexTesting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComplexTestingMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ControllerExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeberCuatroLinkedListSantiagoArellano.SingleLinkedListDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeberSeisRadixSortSantiagoArellano.RadixSortMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoubleLinkedListTests.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ElementarySortingAlgorithms.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExternalSortRadix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonnachiHelper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GCDHelpers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GaiusLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GeneralAlgorithmPractice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HeapSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterfacesAsFunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IsBinaryPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MathExpressionHelpers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxHeapWithLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxHepWithArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MinHeapArrayListNoComparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinHeapWithArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinHeapWithLinkedList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MosaicDecorationOne.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptimalBinPackagingAlgo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OptimalBinPackagingAlgoTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PackageObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PatternMatchingDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PizzaCutter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumberListingHelpers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSortComparisonDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RadixSortDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RadixSortForStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RadixSortMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RestaurantCypher.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RobotDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SantiagoLIstDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingleLinkedListDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Squares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StatisticalAnalysisInterface$StatisticalAnalysisDTO.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringGeneratorHelper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringHelpers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringMatchingHelper.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TimingTestDriver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TrafficAnalyzerController.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;DefaultPlantUmlFileTemplate&quot;: &quot;UML Activity&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Go Build.go build DataStructuresAndAlgorithm LexerDefinition.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build DataStructuresAndAlgorithm/.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build DataStructuresAndAlgorithm\\Practice Modules\\LexerPractice\\LexerDefinition.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build LexerDefinition.go.executor&quot;: &quot;Run&quot;,
+    &quot;Go Build.go build scratch_6.go.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AVLTreeTesting.Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AVLTreeTesting.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.testingConstructors.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.testingConstructorsTwo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.testingInsertionMethods.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.testingInsertionMethods2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.testingInsertionMethods3.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.testingListIterator.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.testingNodeLookUp.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.testingTraversalMethods.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BinaryTreeTests.testingTraversalMethods2.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DSWBalancerTests.SimpleDSWTestOne.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DSWBalancerTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MergeSortTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.RobotDriver.testControllerReceivingRobot.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestingRobotMethods.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestingRobotMethods.testGetRobotName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.binaryTreeTestingRemoval.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.binaryTreeTestingRemoval.testCase9.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.binaryTreeTestingRemoval.tests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.traversals.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.MethodFour.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.PrimeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Scratch (1).executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.DataStructuresAndAlgorithm [org.apache.maven.plugins:maven-assembly-plugin:3.7.1:single].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.DataStructuresAndAlgorithm [package].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindow.RegexTester.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-22&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/santi/OneDrive - Universidad San Francisco de Quito/FIFTH SEMESTER/CMP3002DataStructuresAndAlgorithms/DataStructuresAndAlgorithm/Tests&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/santi/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2551724&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.externalResources&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;go&quot;,
+      &quot;JAVA&quot;,
+      &quot;C++&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Homework Modules\DeberNueveAVLTreeTimingSantiagoArellano" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Homework Modules" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Homework Modules\DeberOchoBinaryTreesSantiagoArellano" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\HomeworkToZip" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Practice Modules" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\MavenResources" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Theory Markdowns\Images" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Practice Modules\LexerPractice" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Homework Modules\DeberCincoSortingComparisonSantiagoArellano" />
+      <recent name="C:\Users\santi\OneDrive - Universidad San Francisco de Quito\FIFTH SEMESTER\CMP3002DataStructuresAndAlgorithms\DataStructuresAndAlgorithm\Tests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ProblemSolvingAlgorithms" />
+    </key>
+    <key name="ImportExportFile.TargetDir.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Theory Markdowns" />
+      <recent name="$PROJECT_DIR$/Practice Modules/RobotFSATenCentCoinIdentifier" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DeberNueveAVLTreeTimingSantiagoArellano" />
+      <recent name="DeberOchoBinaryTreesSantiagoArellano" />
+      <recent name="DeberSeisRadixSortSantiagoArellano" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TimingTestDriver">
+    <configuration name="MaxHepWithArrayList" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="HeapImplementations.MaxHeapWithArrayList" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimingTestDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimingTestDriver" />
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="DataStructuresAndAlgorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build DataStructuresAndAlgorithm\Practice Modules\LexerPractice\LexerDefinition.go" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="DataStructuresAndAlgorithm" />
+      <working_directory value="$PROJECT_DIR$/Practice Modules/LexerPractice" />
+      <EXTENSION ID="software.aws.toolkits.jetbrains.core.execution.GoAwsConnectionRunConfigurationExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </EXTENSION>
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="LexerDefinition.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="DataStructuresAndAlgorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AVLTreeTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Trees" />
+      <option name="MAIN_CLASS_NAME" value="Trees.AVLTreeTesting" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLTreeTesting.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="PACKAGE_NAME" value="Trees" />
+      <option name="MAIN_CLASS_NAME" value="Trees.AVLTreeTesting" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Trees" />
+      <option name="MAIN_CLASS_NAME" value="Trees.BinaryTreeTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTreeTests.testingListIterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Trees" />
+      <option name="MAIN_CLASS_NAME" value="Trees.BinaryTreeTests" />
+      <option name="METHOD_NAME" value="testingListIterator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="DataStructuresAndAlgorithm" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="corretto-22" />
+      <option name="PACKAGE_NAME" value="SortingAlgorithmPractice" />
+      <option name="MAIN_CLASS_NAME" value="SortingAlgorithmPractice.BubbleSortTests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MaxHepWithArrayList" />
+      <item itemvalue="Application.TimingTestDriver" />
+      <item itemvalue="Go Build.go build DataStructuresAndAlgorithm\Practice Modules\LexerPractice\LexerDefinition.go" />
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="JUnit.AVLTreeTesting" />
+      <item itemvalue="JUnit.BinaryTreeTests.testingListIterator" />
+      <item itemvalue="JUnit.AVLTreeTesting.Test" />
+      <item itemvalue="JUnit.BinaryTreeTests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TimingTestDriver" />
+        <item itemvalue="JUnit.BinaryTreeTests.testingListIterator" />
+        <item itemvalue="JUnit.AVLTreeTesting" />
+        <item itemvalue="JUnit.AVLTreeTesting.Test" />
+        <item itemvalue="JUnit.BinaryTreeTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="ShelveChangesManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b25fa429-97d6-40a0-93e4-92ed216c487c" name="Changes" comment="" />
+      <created>1725979596694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725979596694</updated>
+      <workItem from="1725979608429" duration="273000" />
+      <workItem from="1726005404010" duration="26000" />
+      <workItem from="1726005457699" duration="3511000" />
+      <workItem from="1726071854297" duration="4944000" />
+      <workItem from="1726089933787" duration="398000" />
+      <workItem from="1726090510113" duration="5066000" />
+      <workItem from="1726097462394" duration="922000" />
+      <workItem from="1726169473251" duration="526000" />
+      <workItem from="1726258909324" duration="7512000" />
+      <workItem from="1726358015198" duration="6630000" />
+      <workItem from="1726442147076" duration="192000" />
+      <workItem from="1726442540180" duration="1203000" />
+      <workItem from="1726496489930" duration="2152000" />
+      <workItem from="1726507544987" duration="1549000" />
+      <workItem from="1726515117552" duration="3371000" />
+      <workItem from="1726526350864" duration="1623000" />
+      <workItem from="1726542881834" duration="2963000" />
+      <workItem from="1726676720286" duration="1187000" />
+      <workItem from="1726677927802" duration="3802000" />
+      <workItem from="1726777160403" duration="8000" />
+      <workItem from="1726804515022" duration="142000" />
+      <workItem from="1726804676556" duration="35000" />
+      <workItem from="1726804731164" duration="19000" />
+      <workItem from="1726804834460" duration="339000" />
+      <workItem from="1726972792989" duration="3795000" />
+      <workItem from="1726978637095" duration="779000" />
+      <workItem from="1727043255072" duration="1042000" />
+      <workItem from="1727108719619" duration="4845000" />
+      <workItem from="1727129682975" duration="700000" />
+      <workItem from="1727130729954" duration="1705000" />
+      <workItem from="1727132617190" duration="7226000" />
+      <workItem from="1727273031077" duration="2749000" />
+      <workItem from="1727276455973" duration="12550000" />
+      <workItem from="1727295337555" duration="79000" />
+      <workItem from="1727296046503" duration="10013000" />
+      <workItem from="1727357968675" duration="84000" />
+      <workItem from="1727359550636" duration="146000" />
+      <workItem from="1727361272692" duration="87000" />
+      <workItem from="1727361374112" duration="857000" />
+      <workItem from="1727395606459" duration="204000" />
+      <workItem from="1727469070223" duration="1891000" />
+      <workItem from="1727492103778" duration="97000" />
+      <workItem from="1727535215417" duration="571000" />
+      <workItem from="1727536820938" duration="198000" />
+      <workItem from="1727537550437" duration="221000" />
+      <workItem from="1727540206082" duration="415000" />
+      <workItem from="1727540999835" duration="7690000" />
+      <workItem from="1727564137579" duration="4559000" />
+      <workItem from="1727569764861" duration="10123000" />
+      <workItem from="1727622784681" duration="656000" />
+      <workItem from="1727623457588" duration="1850000" />
+      <workItem from="1727717472322" duration="847000" />
+      <workItem from="1727721942668" duration="2401000" />
+      <workItem from="1727730710989" duration="2593000" />
+      <workItem from="1727792046562" duration="7477000" />
+      <workItem from="1727806451264" duration="2771000" />
+      <workItem from="1727886220166" duration="2903000" />
+      <workItem from="1727889159435" duration="5104000" />
+      <workItem from="1727904482729" duration="5003000" />
+      <workItem from="1727921096225" duration="109000" />
+      <workItem from="1727962911028" duration="3630000" />
+      <workItem from="1727983105530" duration="5173000" />
+      <workItem from="1727994671704" duration="2594000" />
+      <workItem from="1728079625991" duration="3842000" />
+      <workItem from="1728083991530" duration="5187000" />
+      <workItem from="1728090221751" duration="10645000" />
+      <workItem from="1728180021977" duration="7659000" />
+      <workItem from="1728262545810" duration="3466000" />
+      <workItem from="1728437740262" duration="35000" />
+      <workItem from="1728437785690" duration="1876000" />
+      <workItem from="1728611255146" duration="4320000" />
+      <workItem from="1728705877373" duration="2836000" />
+      <workItem from="1728766497568" duration="1651000" />
+      <workItem from="1728785302352" duration="4576000" />
+      <workItem from="1728790363347" duration="2054000" />
+      <workItem from="1728862518181" duration="14524000" />
+      <workItem from="1728911160506" duration="5443000" />
+      <workItem from="1728923188573" duration="4930000" />
+      <workItem from="1728930115380" duration="1161000" />
+      <workItem from="1728961324966" duration="2630000" />
+      <workItem from="1729000729495" duration="2831000" />
+      <workItem from="1729013696464" duration="4608000" />
+      <workItem from="1729046334839" duration="3531000" />
+      <workItem from="1729087244124" duration="2275000" />
+      <workItem from="1729095316503" duration="619000" />
+      <workItem from="1729096446462" duration="3084000" />
+      <workItem from="1729105579211" duration="130000" />
+      <workItem from="1729124356221" duration="10804000" />
+      <workItem from="1729170746420" duration="1481000" />
+      <workItem from="1729172795027" duration="2282000" />
+      <workItem from="1729181987853" duration="278000" />
+      <workItem from="1729182279781" duration="139000" />
+      <workItem from="1729182434479" duration="6703000" />
+      <workItem from="1729192464752" duration="7546000" />
+      <workItem from="1729203356531" duration="723000" />
+      <workItem from="1729264396745" duration="13093000" />
+      <workItem from="1729288318791" duration="7794000" />
+      <workItem from="1729296925765" duration="3012000" />
+      <workItem from="1729349973524" duration="6491000" />
+      <workItem from="1729361372820" duration="3931000" />
+      <workItem from="1729388037977" duration="1615000" />
+      <workItem from="1729389822500" duration="6395000" />
+      <workItem from="1729436866617" duration="158000" />
+      <workItem from="1729437152351" duration="246000" />
+      <workItem from="1729437411083" duration="740000" />
+      <workItem from="1729475780487" duration="4659000" />
+      <workItem from="1729484591902" duration="92000" />
+      <workItem from="1729532222247" duration="594000" />
+      <workItem from="1729556154086" duration="1455000" />
+      <workItem from="1729560728026" duration="6121000" />
+      <workItem from="1729567851910" duration="3774000" />
+      <workItem from="1729612915397" duration="1177000" />
+      <workItem from="1729614323852" duration="1891000" />
+      <workItem from="1729623695058" duration="7124000" />
+      <workItem from="1729693802508" duration="1488000" />
+      <workItem from="1729695565635" duration="864000" />
+      <workItem from="1729701154021" duration="291000" />
+      <workItem from="1729703546190" duration="3380000" />
+      <workItem from="1729737284221" duration="1061000" />
+      <workItem from="1729738372331" duration="906000" />
+      <workItem from="1729739416906" duration="2413000" />
+      <workItem from="1729743538014" duration="1244000" />
+      <workItem from="1729745841388" duration="3966000" />
+      <workItem from="1729775162254" duration="975000" />
+      <workItem from="1729776158054" duration="1112000" />
+      <workItem from="1729786690497" duration="5750000" />
+      <workItem from="1729796743321" duration="4620000" />
+      <workItem from="1729801654992" duration="2218000" />
+      <workItem from="1729815706785" duration="17945000" />
+      <workItem from="1729867220426" duration="11711000" />
+      <workItem from="1729882508986" duration="10599000" />
+      <workItem from="1729894861423" duration="142000" />
+      <workItem from="1729911000545" duration="597000" />
+      <workItem from="1729968129942" duration="111000" />
+      <workItem from="1730132861739" duration="4839000" />
+      <workItem from="1730153240885" duration="8738000" />
+      <workItem from="1730209867304" duration="2333000" />
+      <workItem from="1730214136600" duration="231000" />
+      <workItem from="1730214399418" duration="6906000" />
+      <workItem from="1730229835656" duration="4612000" />
+      <workItem from="1730239700672" duration="8000" />
+      <workItem from="1730245090457" duration="8411000" />
+      <workItem from="1730293313674" duration="2928000" />
+      <workItem from="1730298627404" duration="6000" />
+      <workItem from="1730298671851" duration="3000" />
+      <workItem from="1730310646682" duration="733000" />
+      <workItem from="1730322020101" duration="182000" />
+      <workItem from="1730340240054" duration="7043000" />
+      <workItem from="1730347365223" duration="668000" />
+      <workItem from="1730390438684" duration="7932000" />
+      <workItem from="1730405894868" duration="10072000" />
+      <workItem from="1730420467579" duration="8473000" />
+      <workItem from="1730488596205" duration="5021000" />
+      <workItem from="1730599143922" duration="2517000" />
+      <workItem from="1730655299835" duration="192000" />
+      <workItem from="1730655861786" duration="346000" />
+      <workItem from="1730657226325" duration="2902000" />
+      <workItem from="1730666118638" duration="229000" />
+      <workItem from="1730764715593" duration="511000" />
+      <workItem from="1730765250430" duration="6444000" />
+      <workItem from="1730772551765" duration="5415000" />
+      <workItem from="1730812153765" duration="356000" />
+      <workItem from="1730813317721" duration="1267000" />
+      <workItem from="1730815365285" duration="2509000" />
+      <workItem from="1730819044348" duration="8591000" />
+      <workItem from="1730828732996" duration="2527000" />
+      <workItem from="1730840411348" duration="286000" />
+      <workItem from="1730841117557" duration="695000" />
+      <workItem from="1730841830697" duration="106000" />
+      <workItem from="1730841969243" duration="2590000" />
+      <workItem from="1730845735683" duration="2842000" />
+      <workItem from="1730850927920" duration="17785000" />
+      <workItem from="1730899974352" duration="4904000" />
+      <workItem from="1730913583612" duration="1427000" />
+      <workItem from="1730917396651" duration="1198000" />
+      <workItem from="1730918899889" duration="1760000" />
+      <workItem from="1730928937092" duration="10604000" />
+      <workItem from="1730950649307" duration="1766000" />
+      <workItem from="1730986623160" duration="267000" />
+      <workItem from="1730986917819" duration="72000" />
+      <workItem from="1730986999510" duration="379000" />
+      <workItem from="1731099753714" duration="33000" />
+      <workItem from="1731099800748" duration="10000" />
+      <workItem from="1731343598060" duration="3410000" />
+      <workItem from="1731355384045" duration="120000" />
+      <workItem from="1731384801059" duration="2572000" />
+      <workItem from="1731420312344" duration="52000" />
+      <workItem from="1731445444758" duration="5333000" />
+      <workItem from="1731451829946" duration="462000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Document Upload for Data Structures And Algorithms&#10;&#10;The following files (all 193 of them) represent different projects, ideas, methods, and solutions that I have developed over the course of my DSAs university course.">
+      <option name="closed" value="true" />
+      <created>1730951084858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730951084859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding .gitignore">
+      <option name="closed" value="true" />
+      <created>1730952036808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730952036808</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implemented Maven dependency management, added new homework file and fixed issues regarding code running, dependency management, and imports.">
+      <option name="closed" value="true" />
+      <created>1731390086725</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731390086725</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="3bc27981-0692-4636-9a3c-55cedc83bdcd" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="3bc27981-0692-4636-9a3c-55cedc83bdcd">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial Document Upload for Data Structures And Algorithms&#10;&#10;The following files (all 193 of them), represent different projects, ideas, methods and solutions that I have developed over the course of my DSAs university course." />
+    <MESSAGE value="Adding .gitignore" />
+    <MESSAGE value="Initial Document Upload for Data Structures And Algorithms&#10;&#10;The following files (all 193 of them) represent different projects, ideas, methods, and solutions that I have developed over the course of my DSAs university course." />
+    <MESSAGE value="Adding External Files used for Class Inner Workings" />
+    <MESSAGE value="Implemented Maven dependency management, added new homework file and fixed issues regarding code running, dependency management, and imports." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Maven dependency management, added new homework file and fixed issues regarding code running, dependency management, and imports." />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Practice Modules/DoubleLinkedList/DoubleLinkedListTests.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Trees.BinaryTreeNode" memberName="internalStoredData" />
+        <PinnedItemInfo parentTag="java.util.Comparator$$Lambda/0x000001a8e0049a08" memberName="arg$1" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

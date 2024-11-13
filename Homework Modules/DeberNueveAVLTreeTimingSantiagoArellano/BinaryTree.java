@@ -1,5 +1,6 @@
 package DeberNueveAVLTreeTimingSantiagoArellano;
 
+
 import java.util.*;
 import java.util.function.Function;
 import java.util.function.UnaryOperator;
@@ -34,6 +35,7 @@ public class BinaryTree<E extends Comparable<E>> implements Tree<E> {
         this.eInternalSize++;
     }
 
+    public BinaryTree(){;}
     public BinaryTree(E[] elementsToAdd){
         this.addAll(Arrays.asList(elementsToAdd));
     }
@@ -457,6 +459,7 @@ public class BinaryTree<E extends Comparable<E>> implements Tree<E> {
                     else {
                         nodeParent.setRightOrThreadedChild(null);
                     }
+                    this.eInternalSize--;
                 }
                 //! 2. Check for Node with a single child node
                 else if (nodeNow.getRightOrThreadedChild() == null || nodeNow.getLeftOrThreadedChild() == null){
@@ -477,10 +480,12 @@ public class BinaryTree<E extends Comparable<E>> implements Tree<E> {
                     else {
                         nodeParent.setRightOrThreadedChild(childNode);
                     }
+                    this.eInternalSize--;
                 }
                 //! 3. Check for Node with two children
                 else if (nodeNow.getLeftOrThreadedChild() != null && nodeNow.getRightOrThreadedChild() != null){
                     deleteByMerging(nodeNow);
+                    this.eInternalSize--;
                 }
                 return;
             }
@@ -1555,6 +1560,9 @@ public class BinaryTree<E extends Comparable<E>> implements Tree<E> {
                 return Optional.of(e);
             }
         });
+        if (result.isPresent()){
+            return result.get().size();
+        }
         return -1;
     }
 

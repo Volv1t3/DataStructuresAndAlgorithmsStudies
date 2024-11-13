@@ -2,7 +2,6 @@ package HeapImplementations;
 
 import DoubleLinkedList.DoubleLinkedList;
 import org.apache.commons.math3.geometry.spherical.oned.Sphere1D;
-
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Comparator;
