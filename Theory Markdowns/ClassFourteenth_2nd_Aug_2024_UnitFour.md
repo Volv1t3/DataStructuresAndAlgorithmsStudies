@@ -4,7 +4,7 @@ Data Structures And Algorithms | Efficient Sorting Algorithms | USFQ | Santiago 
 </h1>
 
 
-***
+*** 
 <ul style="font-family: 'Consolas', sans-serif;">
 <code >Main Information Section</code>
 <li><b style="color: cornflowerblue; font-weight: bold">Date:</b>: August 2nd, 2024.</li>
@@ -1378,7 +1378,7 @@ public class HeapMaximus<E extends Comparable<E>> {
         this.data.add(elementToAdd);
         //! Proceed with the sorting mechanism to organize elements
         int indexAtAnalysis = this.data.size() - 1; //? Index of the last element since this method works by ordering from the last
-        while (indexAtAnalysis > 0) /*!i.e., we have not gone past the last element*/ {
+        while (indexAtAnalysis > 0) /*!i.e., we have not gone past the first element*/ {
             int parentOfIndexAtAnalysis = (indexAtAnalysis - 1) / 2;
             if (this.data.get(indexAtAnalysis).compareTo(this.data.get(parentOfIndexAtAnalysis)) > 0) {
                 E temporal = this.data.get(indexAtAnalysis);
@@ -1872,8 +1872,47 @@ implements at least the comparable <code>compareTo(E other)</code> method.</p>
 <br><p>Now let us list the complexity for this algorithm. Given that we have used internally heapsort, our complexity then
 is the one of heapSort. This means that Heap Sort is O(nln(n)).
 <br><br>
-Lastly, we present the pros and cons for this algorithm
+There are some characteristics that we should know about this data structure, while the sorting algorithm is important, 
+for Fausto's class we care more about the main characteristics that can be summarized as follows:
 </p>
+<blockquote style="font-style: italic; color: whitesmoke"> <q>Thinking About Heaps</q> 
+<ul>
+<li><b style="color: cornflowerblue; font-weight: bold">Worst Case Operations And Their Time Complexities</b>: 
+<p>THe worst case that can happen in a Heap is that the key we are trying to (a) add, has to be percolated upwards towards the root
+, however, the time complexity for these remains as O(log2(n)). On the other hand, (b) if we were to remove an 
+element, and we bring the leftmost leave node to the root, the worst case happens when the node we  <b>just brought up</b>
+has to be percolated down again. <br><br>Despite this, both operations have a time complexity of O(log2(n))</p>
+</li>
+<li><b style="color: cornflowerblue; font-weight: bold">Insertion and Removal of Values </b>: <p>Internally, and logically too,
+all values that are added into the heap must be put on the <b>leftmost free leave node at the last level</b>. Similarly, if we want to delete 
+a node <b>we grab the leftmost leave node and replace its value with that of the root (this before percolating down if needed)</b>
+<br><br>
+Furthermore, we know that for every deletion there is a percolating process that is called regardless of process done, 
+however, there are cases where this process might not do anything.
+</p></li>
+<li><b style="color: cornflowerblue; font-weight: bold">Relation to Trees</b>: Heaps are <q>supposed</q> to be perfect binary 
+trees. Although we do not necessarily do any tree-like operations, we know that it is supposed to be a <b>perfect binary tree</b>,
+where the height (assuming that we start counting at level 0) is 2^h</li>
+<li><b style="color: cornflowerblue; font-weight: bold">Heap Sort</b>: One of the main uses of this data structure, is 
+to sort an array. While it can also serve as a basis for priority queues, we know that its most basic use is heapSort where the 
+complexity becomes O(nln(n)), however, it adds memory complexity by needing a secondary data structure.</li>
+<li><b style="color: cornflowerblue; font-weight: bold">"Main Characteristics of a Heap as a Data Structure</b>: A heap follows
+the rules of binary trees, specifically binary trees in that only intermediate levels must be full to the brim of nodes, 
+leaf spaces can be left without a node. Second, every parent must be larger than its children. Third, adding is done 
+on the leftmost free leave node, and removal deletes the root, bringing up the last free node of the heap to the root </li>
+</ul>
+<br><br>
+<p>Percolating is the process through which nodes can either go down or up the heap depending on their value with 
+respect to their parents. Generally these two process are define as:</p>
+<ul>
+<li><b style="color: cornflowerblue; font-weight: bold"> Upwards Percolation </b>: the process through which a node that has just
+been added, is brought up the chain of nodes (parent nodes specifically), to maintain the property of either max or min heap</li>
+<li><b style="color: cornflowerblue; font-weight: bold"> Donwards Percolation</b>: the process through which a node that just replaced
+the deleted root, is brought down through its left or right child tree, depending on which one is larger, to maintain the properties
+of heaps</li>
 
+</ul>
+<p>In general, the height of a heap is defined as <code>log2(n)</code>, where n denotes the amount of nodes in the tree</p>
+</blockquote>
 </li>
 </ul>

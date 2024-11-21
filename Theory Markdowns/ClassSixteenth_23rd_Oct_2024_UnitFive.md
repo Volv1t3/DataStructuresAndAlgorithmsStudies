@@ -9,7 +9,7 @@ Data Structures And Algorithms | Trees | USFQ | Santiago Arellano
 <li><b style="color: cornflowerblue; font-weight: bold">Unit</b>: Five.</li>
 <li><b style="color: cornflowerblue; font-weight: bold">Description</b>: This file pertains the following contents: <code><b>
 What are Trees? (Definition, Terms, Divisions), Binary Trees (Definition, uses, terms, how to define them), Balancing Trees,
-AVL Trees.
+AVL Trees, Heaps (Take a look back at ClassFourteenth Where we discuss them)
 </b></code>.</li>
 </ul>
 
