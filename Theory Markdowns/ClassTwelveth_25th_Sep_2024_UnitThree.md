@@ -80,7 +80,7 @@ and for these algorithms we need to have the data <b>ordered</b></blockquote>
 <code>Insertion Sort!</code>
 <blockquote style="font-style: italic; color: black"> 
 
-![img.png](img.png)
+![img.png](Images/SedgewickQickSortPartitionScheme.png)
 </blockquote></blockquote>
 </li>
 </ul>

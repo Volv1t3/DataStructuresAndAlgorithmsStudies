@@ -15,6 +15,7 @@ AVL Trees, Heaps (Take a look back at ClassFourteenth Where we discuss them)
 
 ***
 <br>
+
 <h3 style=" color: cornflowerblue; text-align: center; font-family: 'Consolas', sans-serif;">
 "What are Trees? ", "Traversal Methods for Trees ", "What are Binary Trees? ", "Self-Adjusting Trees (AVL) "
 </h3>
